@@ -21,4 +21,4 @@ Un **Pokédex interactif** développé en **Flutter**. Ce projet permet aux util
 
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/<votre_nom_utilisateur>/flutter-pokedex.git
+   git clone https://github.com/ou2seyne/flutter-pokedex.git
